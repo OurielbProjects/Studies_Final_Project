@@ -41,3 +41,9 @@ Happy Hour is designed to revolutionize food consumption, providing a platform f
 3. MongoDB: Non-relational database storing data in a JavaScript-friendly format.
 
 This project aims to enhance the business-consumer relationship by providing a dynamic platform for real-time deals, contributing to a shift in consumer behavior. Businesses gain exposure and control over their profiles, while consumers enjoy a user-friendly experience tailored to their preferences. The stack chosen ensures efficient development and a seamless experience for both businesses and consumers.
+
+---
+# Launching Happy Hour:
+
+1. To explore the user interface, navigate to happy-hour/happyhour, and execute the 'quasar dev' command after installing dependencies with 'npm i'.
+2. Next, start the server by navigating to /happy-hour/server and running 'npm start'. Enjoy the Happy Hour experience!
